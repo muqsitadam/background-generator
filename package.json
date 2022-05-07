@@ -1,0 +1,19 @@
+{
+  "name": "backgroundgenerator",
+  "version": "1.0.0",
+  "description": "generates css colour as background",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muqsitadam/background-generator.git"
+  },
+  "author": "Abdulmuqsit Adam ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muqsitadam/background-generator/issues"
+  },
+  "homepage": "https://github.com/muqsitadam/background-generator#readme"
+}
